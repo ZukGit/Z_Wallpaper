@@ -1,6 +1,12 @@
 #  pc_wallpager
 
+## 1440x900
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1440x900
 
+```
+<img src="./zimage/pc_wallpager_photo/1440x900/1.jpg"/>
 
 ## 1920x1080
 ```
@@ -16,7 +22,8 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920
 <img src="./zimage/pc_wallpager_photo/1920x1080/6.jpg"/>
 <img src="./zimage/pc_wallpager_photo/1920x1080/7.jpg"/>
 <img src="./zimage/pc_wallpager_photo/1920x1080/8.jpg"/>
-
+<img src="./zimage/pc_wallpager_photo/1920x1080/9.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/10.jpg"/>
 ## 1920x1200
 
 ```
@@ -47,7 +54,8 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2880
 
 ```
 <img src="./zimage/pc_wallpager_photo/2880x1880/1.jpg"/>
-
+<img src="./zimage/pc_wallpager_photo/2880x1880/2.jpg"/>
+<img src="./zimage/pc_wallpager_photo/2880x1880/3.jpg"/>
 # mobile_wallpager
 ```
 下载地址: 
@@ -164,6 +172,22 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 <img src="./zimage/mobile_wallpager_photo/3208x3208/1.jpg" />
 
 
+
+# other_photo
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/other_photo
+
+```
+
+
+## 720x640
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/other_photo/720x640
+
+```
+<img src="./zimage/other_photo/720x640/1.jpg" />
 
 # mobile_theme
 ```
