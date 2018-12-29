@@ -56,7 +56,9 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2880
 <img src="./zimage/pc_wallpager_photo/2880x1880/1.jpg"/>
 <img src="./zimage/pc_wallpager_photo/2880x1880/2.jpg"/>
 <img src="./zimage/pc_wallpager_photo/2880x1880/3.jpg"/>
+
 # mobile_wallpager
+
 ```
 下载地址: 
 https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo
@@ -141,6 +143,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 
 # ipad
 ## 2048x2048
+
 ```
 
 下载地址: 
