@@ -1,5 +1,21 @@
 #  pc_wallpager
 
+
+
+## 1920x1080
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920x1080
+
+```
+<img src="./zimage/pc_wallpager_photo/1920x1080/1.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/2.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/3.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/4.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/5.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/6.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/7.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/8.jpg"/>
 ## 1920x1200
 ```
 下载地址: 
@@ -8,8 +24,8 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920
 ```
 <img src="./zimage/pc_wallpager_photo/1920x1200/1.jpg"/>
 <img src="./zimage/pc_wallpager_photo/1920x1200/2.jpg"/>
-
-
+<img src="./zimage/pc_wallpager_photo/1920x1200/4.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1200/5.jpg"/>
 ## 2560x1600
 
 ```
@@ -43,7 +59,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 
 ```
 <img src="./zimage/mobile_wallpager_photo/640x960/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x960/2.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x960/3.jpg" hight="33%" width="33%"/>
-
+<img src="./zimage/mobile_wallpager_photo/640x960/4.jpg" hight="33%" width="33%"/>
 ## 640x1136
 ```
 下载地址: 
@@ -54,7 +70,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 <img src="./zimage/mobile_wallpager_photo/640x1136/4.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/6.jpg" hight="33%" width="33%"/>
 <img src="./zimage/mobile_wallpager_photo/640x1136/7.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/8.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/9.png" hight="33%" width="33%"/>
 <img src="./zimage/mobile_wallpager_photo/640x1136/10.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/11.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/12.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x1136/13.jpg" hight="33%" width="33%"/>
+<img src="./zimage/mobile_wallpager_photo/640x1136/13.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/14.jpg" hight="33%" width="33%"/>
 
 ## 720x1280
 ```
@@ -62,6 +78,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/720x1280
 
 ```
+<img src="./zimage/mobile_wallpager_photo/720x1280/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/720x1280/2.png" hight="33%" width="33%"/>
 
 
 ## 750x1334
@@ -100,8 +117,48 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 ---
 <img src="./zimage/mobile_wallpager_photo/1080x1920/2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/7.jpg" hight="33%" width="33%"/>
 <img src="./zimage/mobile_wallpager_photo/1080x1920/6.jpg" hight="33%" width="33%"/>
-# mobile_theme
 
+# ipad
+## 2048x2048
+```
+
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2048x2048
+
+```
+<img src="./zimage/mobile_wallpager_photo/2048x2048/1.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/2.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/3.png" hight="33%" width="33%"/>
+<img src="./zimage/mobile_wallpager_photo/2048x2048/4.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/5.jpg" hight="33%" width="33%"/>
+
+
+## 2421x2421
+```
+
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2421x2421
+
+```
+<img src="./zimage/mobile_wallpager_photo/2421x2421/1.jpg"/>
+
+
+
+## 3208x3208
+```
+
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/3208x3208
+
+```
+<img src="./zimage/mobile_wallpager_photo/3208x3208/1.jpg" />
+
+
+
+# mobile_theme
+```
+
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2020x2020
+
+```
 
 
 ## A
