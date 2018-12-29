@@ -78,6 +78,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 
 ## 960x854
 ```
+
 下载地址: 
 https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/960x854
 
@@ -87,6 +88,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 
 ## 1080x1920
 ```
+
 下载地址: 
 https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/1080x1920
 
@@ -113,13 +115,16 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 ### huawei
 #### 主题保存地址
 ```
+
 ADB生效设置:   1.USB文件传输设置  2.开发者选项USB调试打开
 主题保存地址:   /sdcard/huawei/Themes
 主题后缀名:     xxxxx.hwt
 adb push  ./xxxx.hwt    /sdcard/huawei/Themes
+
 ```
 ##### Honor 8 Lite(480dpi 1080x1920)
 ```
+
 adb shell getprop | grep brand         
 [ro.product.brand]: [HONOR]
 
@@ -137,12 +142,15 @@ WINDOW MANAGER DISPLAY CONTENTS (dumpsys window displays)
 
 ##### IOS11_1
 <img src="./zimage/mobile_theme_photo/huawei/honor8lite_ios_11_1.jpg" hight="40%" width="40%"/>
+```
 
 下载地址: 
 https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/huawei
-```
+
+
 加载到手机目录命令:
 adb push  ./honor8lite_ios_11_1.hwt   /sdcard/huawei/Themes
+
 ```
 
 ## I
@@ -153,9 +161,11 @@ adb push  ./honor8lite_ios_11_1.hwt   /sdcard/huawei/Themes
 ### meizu
 #### 主题保存地址
 ```
+
 主题保存地址:   /sdcard/Customize/Themes
 主题后缀名:     xxxxx.mtpk
 adb push  ./xxxx.mtpk   /sdcard/Customize/Themes
+
 ```
 #### M6Note(480dpi 1080x1920)
 ```
@@ -175,11 +185,15 @@ WINDOW MANAGER DISPLAY CONTENTS (dumpsys window displays)
 ```
 ##### IOS11_1
 <img src="./zimage/mobile_theme_photo/meizu/m6note_ios11_1_1.jpg" hight="40%" width="40%"/>
+
+```
 下载地址: 
 https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/meizu
-```
+
+
 加载到手机目录命令:
 adb push  ./m6note_ios11_1.mtpk   /sdcard/Customize/Themes
+
 ```
 
 ## N
