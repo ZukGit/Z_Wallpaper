@@ -24,6 +24,8 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920
 <img src="./zimage/pc_wallpager_photo/1920x1080/8.jpg"/>
 <img src="./zimage/pc_wallpager_photo/1920x1080/9.jpg"/>
 <img src="./zimage/pc_wallpager_photo/1920x1080/10.jpg"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/11.png"/>
+<img src="./zimage/pc_wallpager_photo/1920x1080/12.png"/>
 ## 1920x1200
 
 ```
@@ -139,7 +141,7 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/
 
 ---
 <img src="./zimage/mobile_wallpager_photo/1080x1920/2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/7.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/1080x1920/6.jpg" hight="33%" width="33%"/>
+<img src="./zimage/mobile_wallpager_photo/1080x1920/6.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/8.png" hight="33%" width="33%"/>
 
 # ipad
 ## 2048x2048
