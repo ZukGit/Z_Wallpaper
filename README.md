@@ -48,6 +48,17 @@ https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2560
 <img src="./zimage/pc_wallpager_photo/2560x1600/1.jpg"/>
 
 
+
+
+## 2800x1280
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2800x1280
+
+```
+<img src="./zimage/pc_wallpager_photo/2800x1280/1.jpg"/>
+
+
 ## 2880x1880
 
 ```
