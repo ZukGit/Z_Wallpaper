@@ -4,7 +4,7 @@
 ## 床&沙发
 
 
-<video autoplay="true" controls="controls" width="50%" high="50%" >
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
 <source src="./zimage/zvideo/01homething/chuang1.mp4" type="video/mp4" />
 </video>
 
