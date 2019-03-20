@@ -1,15 +1,38 @@
-#  床
 
 
-## 床&沙发
+
+
+
+#  鱼
+
+
+## 鲫鱼
+
+
+### 鲫鱼汤
 
 
 <video autoplay="true" controls="controls" width="50%" hight="50%" >
-<source src="./zimage/zvideo/01homething/chuang1.mp4" type="video/mp4" />
+<source src="./zimage/zvideo/05cooking/jiyu1.mp4" type="video/mp4" />
 </video>
 
-# 玄关
+# 豆腐
 
+## 煎豆腐
+
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/05cooking/doufu1.mp4" type="video/mp4" />
+</video>
+
+
+# 海带
+
+
+## 干海带
+
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/05cooking/haidai1.mp4" type="video/mp4" />
+</video>
 
 # END
 ```

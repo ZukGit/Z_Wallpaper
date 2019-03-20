@@ -60,6 +60,9 @@
 <video autoplay="true" controls="controls" width="50%" hight="50%" >
 <source src="./zimage/zvideo/02world/land1.mp4" type="video/mp4" />
 </video>
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/02world/land2.mp4" type="video/mp4" />
+</video>
 </p>
 
 <p>
