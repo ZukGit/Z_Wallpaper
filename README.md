@@ -318,6 +318,19 @@ adb push  ./m6note_ios11_1.mtpk   /sdcard/Customize/Themes
 
 ```
 
+##### IOSX_1
+
+```
+下载地址: 
+https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/meizu
+
+
+加载到手机目录命令:
+adb pull  /sdcard/Customize/Themes
+adb push  ./m6note_iosx_1.mtpk   /sdcard/Customize/Themes
+
+```
+<img src="./zimage/mobile_theme_photo/meizu/m6note_iosx_1.jpg" hight="40%" width="40%"/>
 ## N
 ## O
 ## P
