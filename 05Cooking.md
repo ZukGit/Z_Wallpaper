@@ -16,6 +16,18 @@
 <source src="./zimage/zvideo/05cooking/jiyu1.mp4" type="video/mp4" />
 </video>
 
+
+# 猪
+
+## 猪肘
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/05cooking/zhuzhou1.mp4" type="video/mp4" />
+</video>
+
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/05cooking/kaorou1.mp4" type="video/mp4" />
+</video>
+
 # 豆腐
 
 ## 煎豆腐

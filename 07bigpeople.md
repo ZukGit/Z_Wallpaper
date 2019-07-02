@@ -5,6 +5,13 @@
 </video>
 
 
+# none
+
+<video autoplay="true" controls="controls" width="50%" hight="50%" >
+<source src="./zimage/zvideo/07bigpeople/none1.mp4" type="video/mp4" />
+</video>
+
+
 # END
 ```
 ./zimage/

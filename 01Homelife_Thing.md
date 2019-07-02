@@ -35,6 +35,42 @@ https://raw.githubusercontent.com/ZukGit/Z_Wallpaper/master/zimage/
 
 ```
 
+# 中意房屋收藏
+
+
+## 房A1
+<video autoplay="true" controls="controls" width="75%" hight="75%" >
+<source src="./zimage/zvideo/01homething/A1_house.mp4" type="video/mp4" />
+</video>
+
+### 信息地图位置
+<p>
+<img src="./zimage/zvideo/01homething/A1_house_xinxi.jpg"  width="40%" hight="40%" />
+<img src="./zimage/zvideo/01homething/A1_house_ditu.jpg"  width="40%" hight="40%" />
+</p>
+
+
+### 户型
+<img src="./zimage/zvideo/01homething/A1_house_huxing.jpg"  width="66%" hight="66%" />
+
+### 图片
+
+<img src="./zimage/zvideo/01homething/A1_house_01.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_02.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_03.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_04.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_05.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_06.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_07.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_08.jpg"    width="49%" hight="49%" />
+<img src="./zimage/zvideo/01homething/A1_house_09.jpg"    width="49%" hight="49%" />
+
+
+
+
+
+
+
 # 装饰装修材料大全
 
 
