@@ -1,0 +1,1 @@
+cmd /K cd /d %userprofile%\Desktop\zbin & %userprofile%\Desktop\zbin\D3.bat %userprofile%\Desktop\zbin  $(FULL_CURRENT_PATH) 
