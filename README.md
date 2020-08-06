@@ -1,375 +1,75 @@
-#  pc_wallpager
-
+# PC_WallPaper
 ## 1440x900
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1440x900
 
-```
-<img src="./zimage/pc_wallpager_photo/1440x900/1.jpg"/>
-
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\1440x900\1440x900_20200806_205442_966.jpg" /></div>
 
 ## 1600x900
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1600x900
 
-```
-<img src="./zimage/pc_wallpager_photo/1600x900/1.jpg"/>
-
-
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\1600x900\1600x900_20200806_205443_012.jpg" /></div>
 
 ## 1920x1080
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920x1080
 
-```
-<img src="./zimage/pc_wallpager_photo/1920x1080/1.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/2.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/3.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/4.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/5.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/6.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/7.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/8.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/9.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/10.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/11.png"/>
-<img src="./zimage/pc_wallpager_photo/1920x1080/12.png"/>
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_057.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_144.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_196.png" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_309.png" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_390.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_620.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_697.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_764.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_825.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205443_874.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205444_116.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1080\1920x1080_20200806_205444_180.jpg" /></div>
+
 ## 1920x1200
 
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/1920x1200
-
-```
-<img src="./zimage/pc_wallpager_photo/1920x1200/1.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1200/2.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1200/4.jpg"/>
-<img src="./zimage/pc_wallpager_photo/1920x1200/5.jpg"/>
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\1920x1200\1920x1200_20200806_205444_285.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1200\1920x1200_20200806_205444_368.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1200\1920x1200_20200806_205444_481.jpg" /><img src=".\zimage\pc_wallpager_photo\1920x1200\1920x1200_20200806_205444_610.jpg" /></div>
 
 ## 2560x1600
 
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2560x1600
-
-```
-<img src="./zimage/pc_wallpager_photo/2560x1600/1.jpg"/>
-
-
-
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\2560x1600\2560x1600_20200806_205444_810.jpg" /></div>
 
 ## 2800x1280
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2800x1280
 
-```
-<img src="./zimage/pc_wallpager_photo/2800x1280/1.jpg"/>
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\2800x1280\2800x1280_20200806_205444_899.jpg" /></div>
 
+## 2880x1800
 
-## 2880x1880
-
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/pc_wallpager_photo/2880x1880
-
-```
-<img src="./zimage/pc_wallpager_photo/2880x1880/1.jpg"/>
-<img src="./zimage/pc_wallpager_photo/2880x1880/2.jpg"/>
-<img src="./zimage/pc_wallpager_photo/2880x1880/3.jpg"/>
-
-# mobile_wallpager
-
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo
-
-```
-
-
-## 600x1065
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/600x1065
-
-```
-<img src="./zimage/mobile_wallpager_photo/600x1065/1.jpeg" hight="33%" width="33%"/>
-
-
-## 640x960
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/640x960
-
-```
-<img src="./zimage/mobile_wallpager_photo/640x960/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x960/2.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x960/3.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x960/4.jpg" hight="33%" width="33%"/>
-## 640x1136
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/640x1136
-
-```
-<img src="./zimage/mobile_wallpager_photo/640x1136/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/3.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x1136/4.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/6.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x1136/7.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/8.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/9.png" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x1136/10.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/11.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/12.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/640x1136/13.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/640x1136/14.jpg" hight="33%" width="33%"/>
-
-## 720x1280
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/720x1280
-
-```
-<img src="./zimage/mobile_wallpager_photo/720x1280/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/720x1280/2.png" hight="33%" width="33%"/>
-
-
-## 750x1334
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/750x1334
-
-```
-<img src="./zimage/mobile_wallpager_photo/750x1334/1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/3.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/750x1334/4.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/6.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/750x1334/7.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/8.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/750x1334/9.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/750x1334/10.jpg" hight="33%" width="33%"/>
-
-
-## 960x854
-```
-
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/960x854
-
-```
-<img src="./zimage/mobile_wallpager_photo/960x854/1.jpg" hight="50%" width="50%"/><img src="./zimage/mobile_wallpager_photo/960x854/2.jpg" hight="50%" width="50%"/>
-
-
-## 1080x1920
-```
-
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/1080x1920
-
-```
-<img src="./zimage/mobile_wallpager_photo/1080x1920/1080x1920_ios_1.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/1080x1920_ios_2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/1080x1920_ios_3.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/1080x1920/1080x1920_ios_4.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/1080x1920_ios_5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/1.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/1080x1920/4.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/3.jpg" hight="33%" width="33%"/>
-
----
-<img src="./zimage/mobile_wallpager_photo/1080x1920/2.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/5.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/7.jpg" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/1080x1920/6.jpg" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/1080x1920/8.png" hight="33%" width="33%"/>
-
-# ipad
-## 2048x2048
-
-```
-
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2048x2048
-
-```
-<img src="./zimage/mobile_wallpager_photo/2048x2048/1.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/2.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/3.png" hight="33%" width="33%"/>
-<img src="./zimage/mobile_wallpager_photo/2048x2048/4.png" hight="33%" width="33%"/><img src="./zimage/mobile_wallpager_photo/2048x2048/5.jpg" hight="33%" width="33%"/>
-
-
-## 2421x2421
-```
-
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2421x2421
-
-```
-<img src="./zimage/mobile_wallpager_photo/2421x2421/1.jpg"/>
-
-
-
-## 3208x3208
-```
-
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/3208x3208
-
-```
-<img src="./zimage/mobile_wallpager_photo/3208x3208/1.jpg" />
-
-
-
-# other_photo
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/other_photo
-
-```
-
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\pc_wallpager_photo\2880x1880\2880x1800_20200806_205445_045.jpg" /><img src=".\zimage\pc_wallpager_photo\2880x1880\2880x1800_20200806_205445_226.jpg" /><img src=".\zimage\pc_wallpager_photo\2880x1880\2880x1800_20200806_205445_697.jpg" /></div>
 
 ## 720x640
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/other_photo/720x640
 
-```
-<img src="./zimage/other_photo/720x640/1.jpg" />
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\other_photo\720x640\720x640_20200806_205442_931.jpg" /></div>
 
-# mobile_theme
-```
+## 960x854
 
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/zimage/mobile_wallpager_photo/2020x2020
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\960x854\960x854_20200806_205442_836.jpg" /><img src=".\zimage\mobile_wallpager_photo\960x854\960x854_20200806_205442_865.jpg" /></div>
 
-```
+# Same_Size_WallPaper
+## 2048x2048
 
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\2048x2048\2048x2048_20200806_205438_844.png" /><img src=".\zimage\mobile_wallpager_photo\2048x2048\2048x2048_20200806_205439_177.png" /><img src=".\zimage\mobile_wallpager_photo\2048x2048\2048x2048_20200806_205439_522.png" /><img src=".\zimage\mobile_wallpager_photo\2048x2048\2048x2048_20200806_205439_993.png" /><img src=".\zimage\mobile_wallpager_photo\2048x2048\2048x2048_20200806_205440_140.jpg" /></div>
 
-## A
-## B
-## C
-## D
-## E
-## F
-## G
-## H
-### huawei
-#### 主题保存地址
-```
+## 2421x2421
 
-ADB生效设置:   1.USB文件传输设置  2.开发者选项USB调试打开
-主题保存地址:   /sdcard/huawei/Themes
-主题后缀名:     xxxxx.hwt
-adb push  ./xxxx.hwt    /sdcard/huawei/Themes
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\2421x2421\2421x2421_20200806_205440_449.jpg" /></div>
 
-```
-##### Honor 8 Lite(480dpi 1080x1920)
-```
+## 3208x3208
 
-adb shell getprop | grep brand         
-[ro.product.brand]: [HONOR]
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\3208x3208\3208x3208_20200806_205441_417.jpg" /></div>
 
-adb shell getprop | grep name
-[ro.config.marketing_name]: [Honor 8 Lite]
-[ro.product.name]: [PRA-AL00]
+# Mobile_WallPaper
+## 1080x1920
 
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_104.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_282.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_383.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_600.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_645.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_705.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_842.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_898.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205437_958.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205438_017.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205438_127.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205438_188.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\1080x1920\1080x1920_20200806_205438_243.png" hight="33.3%" width="33.3%"/></div>
 
-adb shell dumpsys window displays | head -n 3                            
-WINDOW MANAGER DISPLAY CONTENTS (dumpsys window displays)
-  Display: mDisplayId=0
-    init=1080x1920 480dpi cur=1080x1920 app=1080x1794 rng=1080x1008-1795x1722
+## 600x1065
 
-```
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\600x1065\600x1065_20200806_205441_444.jpeg" hight="33.3%" width="33.3%"/></div>
 
-##### IOS11_1
-<img src="./zimage/mobile_theme_photo/huawei/honor8lite_ios_11_1.jpg" hight="40%" width="40%"/>
+## 640x1136
 
-```
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_474.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_577.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_614.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_641.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_672.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_724.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_765.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_801.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_837.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_878.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_908.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_942.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205441_982.png" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x1136\640x1136_20200806_205442_032.png" hight="33.3%" width="33.3%"/></div>
 
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/huawei
+## 640x960
 
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\640x960\640x960_20200806_205442_061.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x960\640x960_20200806_205442_143.png" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x960\640x960_20200806_205442_185.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\640x960\640x960_20200806_205442_220.jpg" hight="33.3%" width="33.3%"/></div>
 
-加载到手机目录命令:
-adb push  ./honor8lite_ios_11_1.hwt   /sdcard/huawei/Themes
+## 720x1280
 
-```
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\720x1280\720x1280_20200806_205442_254.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\720x1280\720x1280_20200806_205442_327.png" hight="33.3%" width="33.3%"/></div>
 
-## I
-## J
-## K
-## L
-## M
-### meizu
-#### 主题保存地址
-```
+## 750x1334
 
-主题保存地址:   /sdcard/Customize/Themes
-主题后缀名:     xxxxx.mtpk
-adb push  ./xxxx.mtpk   /sdcard/Customize/Themes
+<div style="line-height:0;margin:-20px;"><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_369.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_409.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_465.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_526.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_582.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_618.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_667.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_713.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_761.jpg" hight="33.3%" width="33.3%"/><img src=".\zimage\mobile_wallpager_photo\750x1334\750x1334_20200806_205442_800.jpg" hight="33.3%" width="33.3%"/></div>
 
-```
-#### M6Note(480dpi 1080x1920)
-```
-adb shell getprop | grep ro.build.product
-[ro.build.product]: [M6Note]
-
-
-adb shell wm density 
-Physical density: 480
-
-
-shell dumpsys window displays |head -n 3             
-WINDOW MANAGER DISPLAY CONTENTS (dumpsys window displays)
-  Display: mDisplayId=0
-    init=1080x1920 480dpi cur=1080x1920 app=1080x1920 rng=1080x1014-1920x1854
-
-```
-##### IOS11_1
-<img src="./zimage/mobile_theme_photo/meizu/m6note_ios11_1_1.jpg" hight="40%" width="40%"/>
-
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/meizu
-
-
-加载到手机目录命令:
-adb push  ./m6note_ios11_1.mtpk   /sdcard/Customize/Themes
-
-```
-
-##### IOSX_1
-
-```
-下载地址: 
-https://github.com/ZukGit/Z_Wallpaper/tree/master/mobile_theme_file/meizu
-
-
-加载到手机目录命令:
-adb pull  /sdcard/Customize/Themes
-adb push  ./m6note_iosx_1.mtpk   /sdcard/Customize/Themes
-
-```
-<img src="./zimage/mobile_theme_photo/meizu/m6note_iosx_1.jpg" hight="40%" width="40%"/>
-## N
-## O
-## P
-## Q
-## R
-## S
-## T
-## U
-## V
-## W
-## X
-## Y
-## Z
-
-
-## 查看手机信息命令
-```
-1. 查看品牌
-adb shell getprop | grep brand  
-[ro.product.brand]: [Meizu]
-
-adb shell getprop | grep name
-[ro.config.marketing_name]: [Honor 8 Lite]
-[ro.product.name]: [PRA-AL00]
-
-
-2.查看手机机型型号
-adb shell getprop | grep ro.build.product
-[ro.build.product]: [M6Note]
-
-
-3.查看手机屏幕像素密度
-adb shell wm density 
-Physical density: 480
-
-4.查看手机设备的分辨率  cur=1080x1920
-adb shell dumpsys window displays | head -n 3             
-WINDOW MANAGER DISPLAY CONTENTS (dumpsys window displays)
-  Display: mDisplayId=0
-    init=1080x1920 480dpi cur=1080x1920 app=1080x1920 rng=1080x1014-1920x1854
-
-```
